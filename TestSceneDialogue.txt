@@ -1,0 +1,15 @@
+/Event;Character;0;Xueli,C
+Ophelia;Where the hell am I?;1;L
+Ophelia;Oh, who is that?;0;L
+Ophelia Clone;!;0;RE
+Ophelia;Wait a minute. You are me!;1;L
+Ophelia;Soooo, why do you... get away from me;0;L
+/Event;Choice;0;Hit Her&EmotionAnger&10,Run Away&EmotionFear&10
+Ophelia Clone;!;1;R
+Ophelia;(What should I do? She doesn't seem hostile);1;LE
+Ophelia Clone;?;1;R
+Ophelia;No, it is okay. You can come this way.;1;LE
+Ophelia Clone;!!!!!!;0;R
+Ophelia;You are awfully close;0;LE
+Ophelia Clone;!;0;R
+/Event;Scene;0;Prologue

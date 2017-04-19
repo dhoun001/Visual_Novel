@@ -1,0 +1,9 @@
+????;A boy watches his breath rise from his lips like a silver dragon under the moon’s light.;0;I
+????;The world felt so still save for three shining stars that flickered as if they were watching over him, trying to send him a message.;0;I
+????;The boy knew that he should be heading home, but he had always enjoyed nights like these when he would secretly stay up late with his brother to gaze upon the shimmering surface of the night sky.;0;I
+????;The stars sure are bright tonight, I wish my brother was here to see this.;0;L
+????;The boy smiles, nostalgically thinking about waking his brother to peer alongside him into the cosmos as he spots his house peering over the hill. The door stood slightly ajar.;0;I
+????;Wait... Why is the door open?;0;L
+????;It was too late at night for any of his family members to be awake.;0;I
+????;A chill colder than ice ran down the boy's spine as he sprinted over to his home.;0;I
+/Event;Scene;0;Scene2

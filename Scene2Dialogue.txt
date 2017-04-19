@@ -1,0 +1,9 @@
+????;The door made a loud crack as it slammed against the wall echoing through the silence of the night.;0;I
+????;But the boy could not hear such a sound when confronted with the sight he saw infront of him.;0;I
+????;No.......;0;L
+????;Under the luminesence from the kitchen, his brother’s blood ran deep black while his corpse laid slump over the shoe case, as still as the world around him.;0;I
+????;Slowly the shell of the former boy rose up and turned his head towards the source of light illuminating this atrocity;0;I
+????;Eyes wide, filled with terror, he barely managed to form words with his mouth;0;I
+????;Mom........ Pingyun is dead......;0;L
+????;Yet he knew that only silence would follow;0;I
+/Event;Scene;0;Scene3
