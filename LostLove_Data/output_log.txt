@@ -1,0 +1,439 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x179c)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.600 seconds
+Platform assembly: C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Lorenzo\Documents\GitHub\visualnovel\VisualNovel\VisualNovel\LostLove_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 8.156162 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.060270 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 1.005227 ms (FindLiveObjects: 0.046080 ms CreateObjectMapping: 0.281600 ms MarkObjects: 0.663893 ms  DeleteObjects: 0.012800 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.472746 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.256000 ms (FindLiveObjects: 0.030293 ms CreateObjectMapping: 0.014080 ms MarkObjects: 0.202240 ms  DeleteObjects: 0.008533 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.296533 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.409600 ms (FindLiveObjects: 0.071253 ms CreateObjectMapping: 0.017066 ms MarkObjects: 0.308480 ms  DeleteObjects: 0.010240 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.433920 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.321280 ms (FindLiveObjects: 0.034560 ms CreateObjectMapping: 0.010240 ms MarkObjects: 0.267093 ms  DeleteObjects: 0.008960 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.261546 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.257706 ms (FindLiveObjects: 0.036266 ms CreateObjectMapping: 0.012373 ms MarkObjects: 0.198826 ms  DeleteObjects: 0.008960 ms)
+
+Choice
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Settingup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Settingup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Settingup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.325120 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.293120 ms (FindLiveObjects: 0.031146 ms CreateObjectMapping: 0.030293 ms MarkObjects: 0.214613 ms  DeleteObjects: 0.016213 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene63
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.297813 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.318720 ms (FindLiveObjects: 0.024320 ms CreateObjectMapping: 0.009386 ms MarkObjects: 0.273493 ms  DeleteObjects: 0.011093 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.292693 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.256000 ms (FindLiveObjects: 0.022186 ms CreateObjectMapping: 0.010240 ms MarkObjects: 0.205226 ms  DeleteObjects: 0.017920 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.343040 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.402346 ms (FindLiveObjects: 0.053333 ms CreateObjectMapping: 0.014080 ms MarkObjects: 0.320000 ms  DeleteObjects: 0.014080 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.444586 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.255573 ms (FindLiveObjects: 0.022186 ms CreateObjectMapping: 0.010240 ms MarkObjects: 0.214186 ms  DeleteObjects: 0.008533 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.429653 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.261120 ms (FindLiveObjects: 0.031146 ms CreateObjectMapping: 0.012800 ms MarkObjects: 0.208213 ms  DeleteObjects: 0.008533 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.324266 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.335360 ms (FindLiveObjects: 0.085333 ms CreateObjectMapping: 0.012373 ms MarkObjects: 0.227413 ms  DeleteObjects: 0.009386 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.311893 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.355413 ms (FindLiveObjects: 0.036266 ms CreateObjectMapping: 0.014506 ms MarkObjects: 0.293973 ms  DeleteObjects: 0.009386 ms)
+
+Choice
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Settingup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Settingup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Settingup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.481280 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.370773 ms (FindLiveObjects: 0.037120 ms CreateObjectMapping: 0.015786 ms MarkObjects: 0.293120 ms  DeleteObjects: 0.024320 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.530773 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.284160 ms (FindLiveObjects: 0.029440 ms CreateObjectMapping: 0.014080 ms MarkObjects: 0.229973 ms  DeleteObjects: 0.009386 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.378026 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.288853 ms (FindLiveObjects: 0.033280 ms CreateObjectMapping: 0.012800 ms MarkObjects: 0.224426 ms  DeleteObjects: 0.017066 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.690346 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.423680 ms (FindLiveObjects: 0.037973 ms CreateObjectMapping: 0.013226 ms MarkObjects: 0.356266 ms  DeleteObjects: 0.014080 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.821333 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.300373 ms (FindLiveObjects: 0.041813 ms CreateObjectMapping: 0.010240 ms MarkObjects: 0.238506 ms  DeleteObjects: 0.007680 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.349013 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.377173 ms (FindLiveObjects: 0.032000 ms CreateObjectMapping: 0.014506 ms MarkObjects: 0.300373 ms  DeleteObjects: 0.029440 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.326400 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.318720 ms (FindLiveObjects: 0.034986 ms CreateObjectMapping: 0.014506 ms MarkObjects: 0.259840 ms  DeleteObjects: 0.008960 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.332800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.573440 ms (FindLiveObjects: 0.039680 ms CreateObjectMapping: 0.013226 ms MarkObjects: 0.506026 ms  DeleteObjects: 0.014080 ms)
+
+Choice
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Settingup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Settingup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Settingup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.366506 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.450133 ms (FindLiveObjects: 0.059306 ms CreateObjectMapping: 0.014506 ms MarkObjects: 0.354133 ms  DeleteObjects: 0.021333 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene61
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.284586 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.352426 ms (FindLiveObjects: 0.040533 ms CreateObjectMapping: 0.012800 ms MarkObjects: 0.289280 ms  DeleteObjects: 0.008960 ms)
+
+Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.288853 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 324.
+Total: 0.367786 ms (FindLiveObjects: 0.022613 ms CreateObjectMapping: 0.010240 ms MarkObjects: 0.311466 ms  DeleteObjects: 0.023040 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b2c -> priority: 1 

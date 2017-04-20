@@ -1,0 +1,5 @@
+????;Tears began to roll down the boy's face as he turned towrds the other two corpses;0;I
+????;Digging two graves was no longer a possibility as the weight of reality came crashing down and the boy could not withstand the force, collapsing under it's weight;0;I
+????;Xueli...;0;L
+????;The boy made a despirate plea before he shut his eyes, cutting himself off from the cruel world;0;I
+/Event;Scene;0;Menu
