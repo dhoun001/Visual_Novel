@@ -1,9 +1,0 @@
-????;Slowly the boy lowered his father into the abyss;0;I
-????;The same man who had prepared this grave, was the one to be buried in it;0;I
-????;His father had always been a hard working man who had upheld tradition above all else, stern and ernest, but he also had his compassionate moments;0;I
-????;It was a few winters ago, when a lot of the crops had withered away and food was scare;0;I
-????;The boy, ignorant at the time, complained about the low quality of food he had been eating the past few days, but a quick glace from his father silenced him;0;I
-????;The next day, out on the town the father had pulled the boy aside and gave him that day's earnings and whispered in his ear;0;I
-Father;Go and get the biggest nicest meal you can find here, and we will tell mom that we got robbed on the way back;0;L
-????;The sudden memories rushing back to him brought the boy to his senses;0;I
-/Event;Scene;0;Scene7

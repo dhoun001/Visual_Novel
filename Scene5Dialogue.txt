@@ -1,5 +1,0 @@
-????;The destination was the family burial site, where his forefathers had all been buried;0;I
-????;One grave had been prepared beforehand, but none could predict such a tragedy befalling the family;0;I
-????;The boy looked to the corpses with a blank expression as it was still too gruesome for his mind to process;0;I
-????;He had to decide which body he would give a proper burial, while the other two would have to be buried later;0;I
-/Event;Choice;0;Brother&Scene&61,Father&Scene&62,Mother&Scene&63

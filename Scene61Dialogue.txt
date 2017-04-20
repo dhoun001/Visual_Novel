@@ -1,7 +1,0 @@
-????;Slowly the boy lowered Pingyun into the abyss;0;I
-????;As he began to cover the grave, he took a look at his now deceased brother;0;I
-????;He remembered one night years ago, when they went stargazing and his brother had bet them that they would see a comet;0;L
-????;The last comet that had appeared in their rural region of China was years ago, he had doubted that his brother on that night could predict such a one in a million event;0;I
-????;Yet on that fated day as the stars flickered and wavered in the night, there was a single streak that was brighter than all the others;0;I
-????;The boy had now come to his senses as he covered the last remaining portion of his brother, forever engulfed by the earth;0;I
-/Event;Scene;0;Scene7

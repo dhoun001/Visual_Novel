@@ -1,8 +1,0 @@
-????;Gently lowering his mother into the abyss below there was a tugging on his arm;0;I
-????;Looking down he had ripped his jacket on a nearby bush that snagged him just a moment ago;0;I
-????;Ah... I ripped my jacket...The one mom...;0;L
-????;The boy began to trail off into this thoughts and remembered how he had come crying to his mom that the kids at school made fun of his ragged clothing;0;I
-????;That night his mother selflessly went out to find the best fabic she could afford and worked tirelessly into the night;0;I
-????;The next morning he awoke to a freshly made set of clothes;0;I
-????;Clothes that he still wears to this day...;0;I
-/Event;Scene;0;Scene7
